@@ -23,8 +23,8 @@ Passionate about research, development, and building tools that make tech more i
 
 ---
 
-### 💬 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-wohlfeil)  
-- ✉️ [Email](mailto:njwohlf@umich.edu)  
+### Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/nicholas-wohlfeil)  
+- [Email](mailto:njwohlf@umich.edu)  
 
 ---
